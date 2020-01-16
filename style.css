@@ -1,0 +1,26 @@
+#container {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 1005px;
+    height: 400px;
+}
+
+#box {
+    float: left;
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 920px;
+    height: 400px;
+}
+
+#finishLine {
+    float: left;
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 5px;
+    height: 400px;
+    background-color: black;
+}
